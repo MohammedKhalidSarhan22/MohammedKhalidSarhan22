@@ -7,7 +7,7 @@
 - ⚡ Fun fact: **I can track down a complex API bug faster than finding my own keys!**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khalid-sarhan-a6a37526b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aboradwan10sy@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_khaled_sa) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@MohammaddkhalidSarhan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khalid-sarhan-a6a37526b) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aboradwan10sy@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_khaled_sa)
 
 # 💻 Tech Stack:
 
